@@ -64,3 +64,6 @@ build/
 
 TODO
 .history/
+
+.idea/
+*.DS_Store
