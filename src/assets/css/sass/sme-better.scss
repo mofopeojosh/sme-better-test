@@ -1,0 +1,51 @@
+body {
+  padding-bottom: 0!important;
+}
+
+.sme-login {
+  min-height: 100vh!important;
+  font-size: 14px;
+
+  h2 {
+    font-size: 24px;
+  }
+
+  h3 {
+    font-size: 20px;
+  }
+
+  .sme-rounded {
+    border-radius: 4px;
+  }
+
+  .sme-muted-text {
+    opacity: 0.5;
+  }
+
+  .sme-text-blue {
+    color: #2D74DA;
+  }
+
+  .sme-btn{
+    font-size: 14px;
+  }
+
+  .sme-btn-login:focus, .sme-btn-login:hover {
+    color: initial;
+  }
+
+  .sme-login-section {
+    background: #2D74DA;
+    padding: 70px 64px;
+    color: #FFFFFF;
+  }
+
+  .sme-form {
+    margin-top: 60px;
+
+    .sme-form-input {
+      margin-top: 35px;
+    }
+  }
+
+}
